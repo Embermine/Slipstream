@@ -1,4 +1,4 @@
-# Akyu Allocation Scripts
+# Akyumen Token Allocation Scripts
 
 This repo contains the AKYU token allocation addresses for various pools of users. Here they are:
 
