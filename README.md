@@ -5,12 +5,12 @@ This repo contains the AKYU token allocation addresses for various pools of user
 | Supply        | Description           | File  | Num |
 | ------------- |:-------------:|:-----:|:----:|
 | Preorder | Preorder purchasers | [preorder.csv](/data/preorder.csv) | 0 |
-| Founder | Akyu founder | [founder.csv](/data/founder.csv) | 1 |
-| Advisors | Akyu advisors | [advisors.csv](/data/advisors.csv)| 3 |
-| Promotion | Akyu promotion | [promotion.csv](/data/promotion.csv) | 4 |
-| Emission1 | Preorder sale Emission 1 | [emission1.csv](/data/emission1.csv) | 5 |
-| Emission2 | Preorder sale Emission 2 | [emission2.csv](/data/emission2.csv) | 6 |
-| Emission3 | Preorder sale Emission 3 | [emission3.csv](data/emission3.csv) | 7 |
+| Founder | Akyumen founders | [founder.csv](/data/founder.csv) | 1 |
+| Advisors | Akyumen advisors | [advisors.csv](/data/advisors.csv)| 3 |
+| Promotion | Akyumen promotion | [promotion.csv](/data/promotion.csv) | 4 |
+| Emission1 | Ecosystem Emission 1 | [emission1.csv](/data/emission1.csv) | 5 |
+| Emission2 | Ecosystem Emission 2 | [emission2.csv](/data/emission2.csv) | 6 |
+| Emission3 | Ecosystem Emission 3 | [emission3.csv](data/emission3.csv) | 7 |
 
 ## Pre contract deploy
 
