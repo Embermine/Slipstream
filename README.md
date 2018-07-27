@@ -14,7 +14,7 @@ This repo contains the AKYU token allocation addresses for various pools of user
 
 ## Pre contract deploy
 
-To allow participants to check their balances at token.akyu.network/check, clone the repo, drop the config files into the root folder and call each script in the /database folder.
+To allow participants to check their balances at token.akyumen.io/check, clone the repo, drop the config files into the root folder and call each script in the /database folder.
 
 ## Setting the allocations
 
